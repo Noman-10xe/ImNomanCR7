@@ -8,14 +8,13 @@ I'm an Electrical Engineer and a Digital Skills Enthusiast. I graduated from the
   - CGPA: 3.193
 
 ## 💼 Experience
+- 10x Engineers, Associate Engineer, Lahore (2024)
 - Knowledge Streams, Trainee, Lahore (2024)
   - Mastering essential skills like Linux and Git.
 Collaborating with industry leaders.
 - Pak Elektron Limited (PEL), Intern, Lahore (2021)
   - Involved in an electrical project focused on energy meters.
   - Led a team of engineers; demonstrated leadership and strong project management abilities.
-- UET Lahore, Intern, Lahore (2021)
-  - Acquired hands-on knowledge on various analog and digital instruments.
 
 ## 🚀 Projects
 - Optically Active Temperature Controlled Solar Panel with Dual-Axis Solar Tracking (2020-2021)
