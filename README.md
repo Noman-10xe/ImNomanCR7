@@ -34,5 +34,5 @@ Collaborating with industry leaders.
   - Supervised design projects; provided leadership for creative directions; ensured high-quality deliverables aligning with client requirements.
 
 ## 📫 How to reach me
-- Email: nomanrafiq145@gmail.com
+- Email: noman.rafiq@10xengineers.ai
 - LinkedIn: [linkedin.com/in/nomanrafiq](https://www.linkedin.com/in/ImNomanCR7/)
