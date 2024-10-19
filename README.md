@@ -17,10 +17,10 @@ Collaborating with industry leaders.
   - Led a team of engineers; demonstrated leadership and strong project management abilities.
 
 ## 🚀 Projects
-## AHB3 Protocol Verification
-- **Project Name**: AMBA AHB3 Protocol Verification
-- **Description**: This project focuses on verifying the AMBA AHB3 protocol using SystemVerilog. The repository contains detailed implementation and verification environment.
-- **Link**: [AHB3 Protocol Verification](https://github.com/Noman-10xe/SV-for-Verification/tree/main/Final-Project/AMBA-AHB3-PROTOCOL-Verification)
+## AHB3 lite Protocol Verification
+- **Project Name**: AMBA AHB3-Lite Protocol Verification
+- **Description**: This project focuses on verifying the AMBA AHB3-LITE protocol using SystemVerilog. The repository contains detailed implementation and verification environment.
+- **Link**: [AHB3-Lite Protocol Verification](https://github.com/Noman-10xe/SV-for-Verification/tree/main/Final-Project/AMBA-AHB3-PROTOCOL-Verification)
 
 ## Synchronous FIFO Design
 - **Project Name**: 8-Deep Synchronous FIFO
