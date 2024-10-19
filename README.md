@@ -30,11 +30,10 @@ Collaborating with industry leaders.
 ## 💻 Digital Skills 
 - RISCV-ISA/Assembly
 - Linux
-- Proficient in AutoCAD and SolidWorks.
 - Experienced in Digital Logic Design & Programming.
-- Skilled in various programming languages including C/C++, Verilog-HDL & VHDL.
+- Skilled in various programming languages including C/C++, Verilog & System Verilog.
 - Familiar with Python programming language.
-- Proficient in MATLAB/SIMULINK simulations.
+- Proficient in Synopsys VCS and QuestaSim.
 
 ## 🎨 Management & Leadership Skills 
 - Creative Director at Vizon Studio:
