@@ -22,6 +22,11 @@ Collaborating with industry leaders.
 - **Description**: This project focuses on verifying the AMBA AHB3 protocol using SystemVerilog. The repository contains detailed implementation and verification environment.
 - **Link**: [AHB3 Protocol Verification](https://github.com/Noman-10xe/SV-for-Verification/tree/main/Final-Project/AMBA-AHB3-PROTOCOL-Verification)
 
+## Synchronous FIFO Design
+- **Project Name**: 8-Deep Synchronous FIFO
+- **Description**: This project focuses on design of a synchronous 8-deep FIFO memory. The repository contains detailed implementation and documentation.
+- **Link**: [FIFO DESIGN](https://github.com/Noman-10xe/DSD-DLD/tree/main/FIFO%20Design)
+
 ## 💻 Digital Skills 
 - RISCV-ISA/Assembly
 - Linux
