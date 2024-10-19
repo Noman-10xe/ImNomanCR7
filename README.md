@@ -17,8 +17,10 @@ Collaborating with industry leaders.
   - Led a team of engineers; demonstrated leadership and strong project management abilities.
 
 ## 🚀 Projects
-- Optically Active Temperature Controlled Solar Panel with Dual-Axis Solar Tracking (2020-2021)
-  - Developed an automated controlling system that maintains the temperature of a photovoltaic panel under specific conditions by using solar tracking controlled by microcontrollers.
+## AHB3 Protocol Verification
+- **Project Name**: AMBA AHB3 Protocol Verification
+- **Description**: This project focuses on verifying the AMBA AHB3 protocol using SystemVerilog. The repository contains detailed implementation and verification environment.
+- **Link**: [AHB3 Protocol Verification](https://github.com/Noman-10xe/SV-for-Verification/tree/main/Final-Project/AMBA-AHB3-PROTOCOL-Verification)
 
 ## 💻 Digital Skills 
 - RISCV-ISA/Assembly
