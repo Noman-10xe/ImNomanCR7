@@ -19,7 +19,7 @@ Collaborating with industry leaders.
 ## 🚀 Projects
 ## UVM BASED Testbench for IBEX Core Verification  
 - **Project Name**: IBEX Core Verification  
-- **Description**: This project implements a Universal Verification Methodology (UVM)-based environment for functionally verifying the IBEX Core, a RISC-V compliant processor. The verification environment includes modular components for instruction and data interfaces, unified memory modeling, and a structured test workflow. Features include detailed UVCs for instruction and LSU-side signals, a virtual sequencer, and termination detection. Supporting diagrams further illustrate architecture and workflow.  
+- **Description**: This project implements a UVM-based environment for functionally verifying the IBEX Core, a RISC-V compliant processor. The verification environment includes modular components for instruction and data interfaces, unified memory modeling, and a structured test workflow. Features include detailed UVCs for instruction and LSU-side signals, a virtual sequencer.
 - **Link**: [IBEX Core Functional Verification](https://github.com/Noman-10xe/UVM-1/tree/main/Capstone-Project)  
 
 ## AHB3 lite Protocol Verification
