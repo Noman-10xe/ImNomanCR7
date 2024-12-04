@@ -8,7 +8,7 @@ I'm an Electrical Engineer and a Digital Skills Enthusiast. I graduated from the
   - CGPA: 3.193
 
 ## 💼 Experience
-- 10x Engineers, Associate Engineer, Lahore (2024)
+- 10x Engineers, Associate Engineer, Lahore (2024-Present)
 - Knowledge Streams, Trainee, Lahore (2024)
   - Mastering essential skills like Linux and Git.
 Collaborating with industry leaders.
