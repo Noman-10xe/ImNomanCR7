@@ -17,6 +17,11 @@ Collaborating with industry leaders.
   - Led a team of engineers; demonstrated leadership and strong project management abilities.
 
 ## 🚀 Projects
+## UVM BASED Testbench for IBEX Core Verification  
+- **Project Name**: IBEX Core Verification  
+- **Description**: This project implements a Universal Verification Methodology (UVM)-based environment for functionally verifying the IBEX Core, a RISC-V compliant processor. The verification environment includes modular components for instruction and data interfaces, unified memory modeling, and a structured test workflow. Features include detailed UVCs for instruction and LSU-side signals, a virtual sequencer, and termination detection. Supporting diagrams further illustrate architecture and workflow.  
+- **Link**: [IBEX Core Functional Verification](https://github.com/Noman-10xe/UVM-1/tree/main/Capstone-Project)  
+
 ## AHB3 lite Protocol Verification
 - **Project Name**: AMBA AHB3-Lite Protocol Verification
 - **Description**: This project focuses on verifying the AMBA AHB3-LITE protocol using SystemVerilog. The repository contains detailed implementation and verification environment.
